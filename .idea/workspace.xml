@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d2d1a8d1-3ca6-4824-906f-db13ec8df5a2" name="Changes" comment="">
+    <list default="true" id="d2d1a8d1-3ca6-4824-906f-db13ec8df5a2" name="Changes" comment="GTSRB works">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,7 +46,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-975db3bf15a3-31b6be0877a2-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.18034.82" />
+        <option value="bundled-python-sdk-ce3d9afa04ac-ba05f1cad1b1-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.20224.347" />
       </set>
     </attachedChunks>
   </component>
@@ -59,6 +59,45 @@
       <option name="presentableId" value="Default" />
       <updated>1720353998546</updated>
     </task>
+    <task id="LOCAL-00001" summary="TSR inference code">
+      <option name="closed" value="true" />
+      <created>1722458293674</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1722458293674</updated>
+    </task>
+    <task id="LOCAL-00002" summary="custom driver is working">
+      <option name="closed" value="true" />
+      <created>1723879806650</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1723879806650</updated>
+    </task>
+    <task id="LOCAL-00003" summary="custom driver is working">
+      <option name="closed" value="true" />
+      <created>1723983319815</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1723983319815</updated>
+    </task>
+    <task id="LOCAL-00004" summary="GTSRB works">
+      <option name="closed" value="true" />
+      <created>1725303664206</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1725303664206</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="TSR inference code" />
+    <MESSAGE value="custom driver is working" />
+    <MESSAGE value="GTSRB works" />
+    <option name="LAST_COMMIT_MESSAGE" value="GTSRB works" />
   </component>
 </project>
